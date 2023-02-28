@@ -10,7 +10,7 @@ public class Task1
     public void Start()
     {
         // Получение входных данных из консоли
-        Console.Write("Введите превое число: ");
+        Console.Write("Введите первое число: ");
         string strA = Console.ReadLine();
 
         Console.Write("Введите второе число: ");
